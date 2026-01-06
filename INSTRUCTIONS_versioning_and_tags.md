@@ -93,3 +93,4 @@ Ask Josh (or remind Josh to ask ChatGPT):
 - Should we add a "release snapshot" concept distinct from normal commits, or keep everything as snapshots?
 - Should we maintain a mapping index file (INDEX.md) that lists chapters + last-updated version to help navigation?
 
+
